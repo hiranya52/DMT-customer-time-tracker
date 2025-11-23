@@ -23,7 +23,7 @@ export default function Layout({ children }: { children: React.ReactNode }) {
         <div className="w-full px-2 sm:px-3 md:px-4 lg:px-6 py-4 flex justify-between items-center">
           <div className="flex items-center space-x-3">
             <img 
-              src="/attached_assets/DMT_Department_of_Motor_Traffic_1200px_23_02_12-removebg-preview_1763897823261.png" 
+              src="/DMT_Department_of_Motor_Traffic_1200px_23_02_12-removebg-preview_1763897823261.png" 
               alt="DMT Logo" 
               className="h-12 w-auto bg-white rounded-full p-1"
             />
